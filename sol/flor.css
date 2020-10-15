@@ -1,0 +1,17 @@
+#div2{
+float:center;
+background:#70db93;
+width: 50%;
+  min-height:240px;
+   font-family: verdana;
+}
+#div1{
+float:center;
+background:#c0c0c0;
+width: 30%;
+  min-height:160px;
+   font-family: verdana;
+}
+h2
+ {
+ background-color: #70db93
